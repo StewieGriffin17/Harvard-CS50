@@ -57,16 +57,16 @@ This will contain a custom project designed and developed using the concepts lea
 | Week | Topic                  | Status  |
 |------|------------------------|---------|
 | 0    | Scratch                | ✅ Done |
-| 1    | C - Basics             |  |
+| 1    | C - Basics             | ✅ Done |
 | 2    | Arrays                 | |
-| 3    | Algorithms             |  |
-| 4    | Memory                 |  |
-| 5    | Data Structures        |  |
-| 6    | Python                 |  |
+| 3    | Algorithms             | |
+| 4    | Memory                 | |
+| 5    | Data Structures        | |
+| 6    | Python                 | |
 | 7    | SQL                    | |
-| 8    | HTML, CSS, JavaScript  |  |
+| 8    | HTML, CSS, JavaScript  | |
 | 9    | Flask / Web Apps       | |
-| 10   | Final Project          |  |
+| 10   | Final Project          | |
 
 ---
 
